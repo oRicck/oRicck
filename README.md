@@ -16,7 +16,11 @@
 
 ###
 
-<h6 data-importer="text" align="center">LinkedIn • E-Mail • Portfolio</h6>
+<p align="center">
+  <a href="https://linkedin.com/in/seu-perfil">LinkedIn</a> • 
+  <a href="mailto:seuemail@email.com">E-mail</a> • 
+  <a href="https://seu-portfolio.com">Portfolio</a>
+</p>
 
 ###
 
