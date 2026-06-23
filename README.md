@@ -13,7 +13,7 @@
 ###
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/luis-camilo-48356425b/">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/luis-camilo-48356425b/">LinkedIn</a> • 
   <a href="mailto:luis.scamilo@gmail.com">E-mail</a> • 
   <a href="https://seu-portfolio.com">Portfolio</a>
 </p>
