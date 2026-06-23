@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/luis-camilo-48356425b/">LinkedIn</a> • 
-  <a href="mailto:luis.scamilo@gmail.com">E-mail</a> • 
+  <a href="mailto:luishenriquec82@gmail.com">E-mail</a> • 
   <a href="https://seu-portfolio.com">Portfolio</a>
 </p>
 
